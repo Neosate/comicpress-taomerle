@@ -1,0 +1,20 @@
+/*
+Theme Name: ComicPress Taomerle
+Theme URI: http://frumph.net
+Template: comicpress
+Description: Theme customized for Taomerle Publishing Association
+Author: Adam Kellogg (Neosate Crimsonfang)
+Author URI: https://www.taomerle.com
+Version: 1.0
+.
+The CSS, XHTML and design is released under GPL v3:
+http://www.opensource.org/licenses/gpl-3.0.html
+.
+
+NOTE: When writing CSS in the Child Theme, you put the CHANGES only, not the entire CSS.  
+*/
+
+@import url("../comicpress/style.css");
+
+/* PUT CSS CHANGES UNDER HERE */
+
